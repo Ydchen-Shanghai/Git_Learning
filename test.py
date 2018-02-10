@@ -21,5 +21,7 @@ for eleid in uniques:
 	print('The number of the floors_in_service is:', list(result[eleid]))
 	print('The sum of all the elements in the list is:', sum(list(result[eleid])))
 	print('-'*100)
+	
+print("This is atest for Git!")
 
 # print(list(result['a']))
